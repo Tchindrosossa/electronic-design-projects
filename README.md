@@ -19,4 +19,4 @@ Design and simulation of a CMOS inverter using PMOS and NMOS transistors in Logi
 - Analog and Digital Electronics concepts
 
 ## Author
-Sossa Tchindro Somagna
+Tchindro Sossa 
